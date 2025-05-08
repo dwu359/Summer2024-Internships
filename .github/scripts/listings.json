@@ -94432,7 +94432,7 @@
         "company_name": "Squarepoint Capital",
         "id": "3ec91fbf-4e9b-4ad8-a8e9-0878aa80cad8",
         "title": "Intern Software Developer - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -179394,7 +179394,7 @@
         "company_name": "Cadence Design Systems",
         "id": "882d0a08-17b4-407f-b50f-3b699f511608",
         "title": "SVG Software Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -192016,6 +192016,373 @@
             "Solon, OH"
         ],
         "company_url": "https://simplify.jobs/c/bfdacd80-1593-4655-8b3a-da62394b5fff",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tesla",
+        "id": "36c766d7-51b7-4d96-b98c-22c50173a09b",
+        "title": "Internship - Performance Modeling Engineer - Dojo",
+        "active": true,
+        "terms": [
+            "Fall 2025",
+            "Winter 2026",
+            "Spring 2026"
+        ],
+        "date_updated": 1746670243,
+        "date_posted": 1746670243,
+        "url": "https://www.tesla.com/careers/search/job/242661",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tesla",
+        "id": "d17e6541-07ae-4f9f-8f7c-043ea6956c85",
+        "title": "Internship - Software Machine Learning Engineer - Reliability Energy Engineering",
+        "active": true,
+        "terms": [
+            "Fall 2025",
+            "Winter 2026",
+            "Spring 2026"
+        ],
+        "date_updated": 1746670236,
+        "date_posted": 1746670236,
+        "url": "https://www.tesla.com/careers/search/job/242665",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Neuralink",
+        "id": "a2dfea15-9579-4b72-97ab-b4d45941a3b8",
+        "title": "Software Engineer Intern - Implant",
+        "active": true,
+        "terms": [],
+        "date_updated": 1746685496,
+        "date_posted": 1746685496,
+        "url": "https://boards.greenhouse.io/neuralink/jobs/6569020003",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Neuralink",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cadence Design Systems",
+        "id": "92c54b88-ccb2-477f-84d4-4b327bed7724",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1746688795,
+        "date_posted": 1746688795,
+        "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/AUSTIN/Software-Engineering-Intern--Summer-2025-_R49943-2",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "QuEra Computing",
+        "id": "8aad3bdd-ad9d-4911-acbf-ea62e562ed98",
+        "title": "Scientific Software Intern",
+        "active": true,
+        "terms": [],
+        "date_updated": 1746688460,
+        "date_posted": 1746688460,
+        "url": "https://job-boards.greenhouse.io/queracomputinginc/jobs/4670658008",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/QuEra-Computing",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Comcast",
+        "id": "ec47a9bd-d5ed-44bb-9698-af629603fcd7",
+        "title": "Comcast Software Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2025",
+            "Spring 2026"
+        ],
+        "date_updated": 1746688054,
+        "date_posted": 1746688054,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Software-Engineer-Co-op_R410418",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Comcast",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Comcast",
+        "id": "e62451db-3a51-4874-9c05-52fbf6406e11",
+        "title": "Comcast Machine Learning Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2025",
+            "Spring 2026"
+        ],
+        "date_updated": 1746688056,
+        "date_posted": 1746688056,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Machine-Learning-Co-op_R410773",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Comcast",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Comcast",
+        "id": "9c3e4a1f-200d-4ebc-a0e6-373e75f18994",
+        "title": "Comcast Automation Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2025",
+            "Spring 2026"
+        ],
+        "date_updated": 1746688062,
+        "date_posted": 1746688062,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/NJ---Mount-Laurel-1800-Bishops-Gate/Comcast-Automation-Engineer-Co-op_R411014",
+        "locations": [
+            "Mt Laurel Township, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Comcast",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Comcast",
+        "id": "98e403cc-02bb-49e3-a7ea-7776f078a0f0",
+        "title": "Comcast Software Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2025",
+            "Winter 2026",
+            "Spring 2026"
+        ],
+        "date_updated": 1746688052,
+        "date_posted": 1746688052,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Software-Engineer-Co-op_R411729",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Comcast",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Comcast",
+        "id": "8014c1ea-c4b7-4406-af4e-bbac37c15f43",
+        "title": "Comcast Innovation Labs Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2025",
+            "Spring 2026"
+        ],
+        "date_updated": 1746688057,
+        "date_posted": 1746688057,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Innovation-Labs-Co-op_R410776",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Comcast",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Comcast",
+        "id": "7d2e0519-0fab-49ca-a80c-9a13be37a359",
+        "title": "Comcast Aegis/Iris Software Development Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2025",
+            "Spring 2026"
+        ],
+        "date_updated": 1746688053,
+        "date_posted": 1746688053,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-AeGIS-Iris-Software-Development-Co-op_R410983",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Comcast",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Comcast",
+        "id": "7c5271bd-2dfa-4252-8e50-cd9503ce6389",
+        "title": "Comcast Software Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2025",
+            "Spring 2026"
+        ],
+        "date_updated": 1746688049,
+        "date_posted": 1746688049,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Software-Engineer-Co-op_R410777",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Comcast",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Comcast",
+        "id": "7c4d0274-65bb-498a-be74-b9d55e050092",
+        "title": "Comcast Data Program Delivery Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2025",
+            "Spring 2026"
+        ],
+        "date_updated": 1746688053,
+        "date_posted": 1746688053,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Data-Program-Delivery-Co-op_R410992",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Comcast",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Comcast",
+        "id": "7c30f87c-a844-4404-ad91-7dd95002ac07",
+        "title": "Comcast Software Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2025",
+            "Spring 2026"
+        ],
+        "date_updated": 1746688054,
+        "date_posted": 1746688054,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Software-Engineer-Co-op_R410997",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Comcast",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Comcast",
+        "id": "3ac8c495-b302-4596-9a11-26c2c7eb41f8",
+        "title": "Comcast Devx Portfolio Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2025",
+            "Spring 2026"
+        ],
+        "date_updated": 1746688050,
+        "date_posted": 1746688050,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---West-Chester-1354-Boot-Rd/Comcast-DevX-Portfolio-Co-op_R410406",
+        "locations": [
+            "West Chester, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Comcast",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tencent",
+        "id": "17ab7e16-6a9d-4269-9e0a-1f9b7f1b88dc",
+        "title": "Data Analysis Intern",
+        "active": true,
+        "terms": [],
+        "date_updated": 1746687775,
+        "date_posted": 1746687775,
+        "url": "https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/UK-London/Data-Analysis-Intern_R105415",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Tencent",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cadence Design Systems",
+        "id": "2476d9a9-405d-479b-8810-5a453f066c2a",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1746689488,
+        "date_posted": 1746689488,
+        "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/AUSTIN/Software-Engineering-Intern--Summer-2025-_R49944-1",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Neuralink",
+        "id": "ff0f892b-1c03-4107-a4cf-5c53b1b53595",
+        "title": "Software Engineer Intern - Implant",
+        "active": true,
+        "terms": [],
+        "date_updated": 1746685497,
+        "date_posted": 1746685497,
+        "url": "https://boards.greenhouse.io/neuralink/jobs/6569018003",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Neuralink",
         "is_visible": true,
         "sponsorship": "Other"
     }
